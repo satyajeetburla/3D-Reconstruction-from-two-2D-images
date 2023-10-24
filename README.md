@@ -4,8 +4,8 @@
 
 This project exploces the classical computer vision technique (non-deep learning) of converting 2D images into 3D Reconstruction. By harnessing the power of computer vision methodologies and utilities, I converted two images depicting a castle into a three-dimensional representation. A pivotal aspect of this effort was ascertaining the camera's positions when the photographs were captured, followed by the creation of the 3D visual.
 <p float="left">
-  <img src="[URL_OF_FIRST_IMAGE](https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img1.png)" width="400" />
-  <img src="[URL_OF_SECOND_IMAGE](https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img2.png)" width="400" /> 
+  <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img1.png" width="400" />
+  <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img2.png" width="400" /> 
 </p>
 Highlighted milestones of this endeavor are:
 
@@ -17,7 +17,7 @@ Highlighted milestones of this endeavor are:
      - I utilized the 8-point technique to deduce the essential matrix \(E\) by way of the SVD decomposition approach.
    - **RANSAC Technique**: 
      - To improve the resilience of the \(E\) derivation, I incorporated the elementary RANSAC method, ensuring protection against inconsistencies from incorrect matches.
-      [![Description of Image](URL_OF_THE_IMAGE)](https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img3.png)
+      [![Description of Image](https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img3.png)]
    - **Depicting Epipolar Lines**: 
      - With the help of the essential matrix, I illustrated the epipolar lines on both snapshots, providing insight into the correlation between corresponding points.
 
