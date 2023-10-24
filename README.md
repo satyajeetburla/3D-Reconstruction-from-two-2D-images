@@ -3,10 +3,10 @@
 ## Overview
 
 This project exploces the classical computer vision technique (non-deep learning) of converting 2D images into 3D Reconstruction. By harnessing the power of computer vision methodologies and utilities, I converted two images depicting a castle into a three-dimensional representation. A pivotal aspect of this effort was ascertaining the camera's positions when the photographs were captured, followed by the creation of the 3D visual.
-<p float="center">
+<p align="center">
   <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img1.png" width="400" />
   <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img2.png" width="400" /> 
-</p>
+</p>>
 Highlighted milestones of this endeavor are:
 
 1. **Retrieving 3D Transformations**: 
@@ -29,7 +29,7 @@ Highlighted milestones of this endeavor are:
 
 4. **Reprojection Verification**: 
    - As an essential verification step, I juxtaposed points from one camera's original snapshot against the reprojected points from the alternate camera. This process called for the application of the camera's projection blueprint and a deep dive into the transformation's articulation across the two viewpoints.
-<p float="center">
+<p align="center">
   <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img4.png" width="200" />
-  <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img5.png" width="200" /> 
+  <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img5.png" width="400" /> 
 </p>     
