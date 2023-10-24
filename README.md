@@ -29,7 +29,7 @@ Highlighted milestones of this endeavor are:
 
 4. **Reprojection Verification**: 
    - As an essential verification step, I juxtaposed points from one camera's original snapshot against the reprojected points from the alternate camera. This process called for the application of the camera's projection blueprint and a deep dive into the transformation's articulation across the two viewpoints.
-<p float="left">
-  <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img4.png" width="150" />
-  <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img5.png" width="300" /> 
+<p float="center">
+  <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img4.png" width="100" />
+  <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img5.png" width="100" /> 
 </p>     
