@@ -2,7 +2,7 @@
 
 ## Overview
 
-This endeavor explores the fascinating space of converting 2D images into 3D Reconstruction. By harnessing the power of computer vision methodologies and utilities, I converted two images depicting a castle into a three-dimensional representation. A pivotal aspect of this effort was ascertaining the camera's positions when the photographs were captured, followed by the creation of the 3D visual.
+This project exploces the classical computer vision technique (non-deep learning) of converting 2D images into 3D Reconstruction. By harnessing the power of computer vision methodologies and utilities, I converted two images depicting a castle into a three-dimensional representation. A pivotal aspect of this effort was ascertaining the camera's positions when the photographs were captured, followed by the creation of the 3D visual.
 
 Highlighted milestones of this endeavor are:
 
