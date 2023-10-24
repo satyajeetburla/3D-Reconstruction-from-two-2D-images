@@ -1,4 +1,4 @@
-# 3D Reconstruction from two 2D-images
+# 3D Reconstruction from two 2D images
 
 ## Overview
 
