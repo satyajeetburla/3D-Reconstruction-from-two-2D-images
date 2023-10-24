@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project exploces the classical computer vision technique (non-deep learning) of converting 2D images into 3D Reconstruction. By harnessing the power of computer vision methodologies and utilities, I converted two images depicting a castle into a three-dimensional representation. A pivotal aspect of this effort was ascertaining the camera's positions when the photographs were captured, followed by the creation of the 3D visual.
+This project explores the classical computer vision technique (non-deep learning) of converting 2D images into 3D Reconstruction. By harnessing the power of computer vision methodologies and utilities, I converted two images depicting a castle into a three-dimensional representation. A pivotal aspect of this effort was ascertaining the camera's positions when the photographs were captured, followed by the creation of the 3D visual.
 <p align="center">
   <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img1.png" width="400" />
   <img src="https://github.com/satyajeetburla/3D-Reconstruction-from-two-2D-images/blob/main/img/img2.png" width="400" /> 
